@@ -1,5 +1,4 @@
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I AM Rickyman;Welcome!)
 
 <!--
 **Suhao07/Suhao07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+AM+Rickyman!;Welcome!;)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Suhao07)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suhao07&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suhao07&layout=donut)](https://github.com/Suhao07/github-readme-stats)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Suhao07&left_color=green&right_color=red)
+
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Suhao07)
 
