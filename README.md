@@ -1,4 +1,5 @@
-## Hi there 👋
+
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I AM Rickyman;Welcome!)
 
 <!--
 **Suhao07/Suhao07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
